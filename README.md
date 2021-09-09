@@ -20,7 +20,7 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
 1. After downloading the font file on your computer, double-click the file and select **Install** on top right corner.
 2. When the font installation is complete, you can use the font.
 
-## Font outline
+## Examples
 ![regular](https://user-images.githubusercontent.com/44143584/132620683-f78c007b-87a5-47ec-baa8-fd79a17c0cca.png)
 
 ![bold](https://user-images.githubusercontent.com/44143584/132620694-2513e7b9-9df2-452a-ad81-c318033105a2.png)
