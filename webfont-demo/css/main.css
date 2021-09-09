@@ -1,0 +1,15 @@
+body {
+    font-family: "pulkkot", serif; 
+    font-size: 36px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5%;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.author {
+    font-size: 28px;
+}
