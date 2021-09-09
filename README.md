@@ -1,5 +1,5 @@
 # pulkkot-font
-**pulkkot** is a custom font that I created by using Calligraphr(www.calligraphr.com). Calligraphr is a great website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers. Hope you enjoy this and perhaps have fun making your own as well :balloon:
+**pulkkot** is a custom font that I created by using Calligraphr(www.calligraphr.com). Calligraphr is a great website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers. I also used [Font Squirrel](https://www.fontsquirrel.com/) that generates webfont for free. Hope you enjoy this and perhaps have fun making your own as well :balloon:
 
 ## What pulkkot means
 pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my favourite poems.  The poem is below:
@@ -38,8 +38,8 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
     **Example:**
     ```html
     ...
-    <link rel="stylesheet" href="path to stylesheet.css for your website" charset="utf-8">
-    <link rel="stylesheet" href="path to main.css for your website" charset="utf-8">
+    <link rel="stylesheet" href="path to stylesheet.css for your website" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="path to main.css for your website" type="text/css" charset="utf-8">
     ...
     ```
 5. Then, you can use pulkkot font in your main CSS file.
