@@ -8,7 +8,7 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
   <img src="https://github.com/kmsunmin/pulkkot-font/blob/main/images/poem.png" />
 </p>
 
-## How to install
+## How to install (.otf/.ttf files)
 #### Windows:
 1. After downloading the font file on your computer, right-click the file and select **Install**.
 2. When the font installation is complete, you can use the font.
@@ -22,7 +22,7 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
 2. When the font installation is complete, you can use the font.
 
 ## How to use pulkkot font for your website
-1. After downloading the font file on your computer, upload the font files (ex: .woff, .woff2, stylesheet.css) in this repository to your website.
+1. After downloading the font files on your computer, upload the font files in `webfont/` (ex: .woff, .woff2, stylesheet.css) in this repository to your website.
 2. Open `stylesheet.css` file that has the following code:
    ```css
    @font-face {
