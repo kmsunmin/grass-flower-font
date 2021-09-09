@@ -1,5 +1,5 @@
 # pulkkot-font
-Pulkkot is a custom font that I created by using Calligraphr. [Calligraphr](www.calligraphr.com) is a great website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers (thank you!). Hope you enjoy this and perhaps have fun making your own as well :balloon:
+Pulkkot is a custom font that I created by using Calligraphr(www.calligraphr.com). Calligraphr is a great website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers (thank you!). Hope you enjoy this and perhaps have fun making your own as well :balloon:
 
 ## What pulkkot means
 pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my favourite poems.  The poem is below:
