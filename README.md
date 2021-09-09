@@ -1,5 +1,5 @@
 # pulkkot-font
-**pulkkot** is a custom font that I created by using [Calligraphr](https://www.calligraphr.com/). Calligraphr is a great website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers. I also used [Font Squirrel](https://www.fontsquirrel.com/) that generates webfont for free. Hope you enjoy this and perhaps have fun making your own as well :balloon:
+**pulkkot** is a custom font that I created by using [Calligraphr](https://www.calligraphr.com/). Calligraphr is a great website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers. I also used [Font Squirrel](https://www.fontsquirrel.com/) that generates webfont for free. If you are intersted in more detailed tutorial for custom fonts, please check out [this helpful article](https://blog.schoolofcode.co.uk/a-beginners-guide-to-creating-your-very-own-custom-web-font-7b71b16f4ef3). Hope you enjoy this and perhaps have fun making your own as well :balloon:
 
 ## What pulkkot means
 pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my favourite poems.  The poem is below:
@@ -21,8 +21,8 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
 2. When the font installation is complete, you can use the font.
 
 ## How to use pulkkot font for your website
-1. After downloading the font file on your computer, upload the font files (ex: .woff, .woff2) in this repository to your website.
-2. Open `stylesheet.css` file for your website that has the following code:
+1. After downloading the font file on your computer, upload the font files (ex: .woff, .woff2, stylesheet.css) in this repository to your website.
+2. Open `stylesheet.css` file that has the following code:
    ```css
    @font-face {
        font-family: 'pulkkot';
