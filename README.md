@@ -5,7 +5,7 @@
 pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my favourite poems.  The poem is below:
 
 
-![poem](https://user-images.githubusercontent.com/44143584/132621401-9c03db48-5c05-40c1-96de-fa63c4bb7bed.png)
+![poem](https://github.com/kmsunmin/pulkkot-font/blob/main/images/poem.png)
 
 ## How to install
 #### Windows:
@@ -50,11 +50,11 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
     ```
   
 ## Examples
-![regular](https://user-images.githubusercontent.com/44143584/132759363-db5a683e-3411-46fd-b07d-2da46ee8db12.png)
+![regular](https://github.com/kmsunmin/pulkkot-font/blob/main/images/regular.png)
 
-![bold](https://user-images.githubusercontent.com/44143584/132759378-adabfc80-0cb8-42e1-985f-93ddda99531b.png)
+![bold](https://github.com/kmsunmin/pulkkot-font/blob/main/images/bold.png)
 
-![example](https://user-images.githubusercontent.com/44143584/132625999-f944bfbc-d86f-4cb2-a6c8-fe147efe2205.png)
+![example](https://github.com/kmsunmin/pulkkot-font/blob/main/images/example.png)
 
 ## Licensing
 Copyright (c) 2021, Sunmin Kim
