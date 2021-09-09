@@ -4,8 +4,9 @@
 ## What pulkkot means
 pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my favourite poems.  The poem is below:
 
-
-![poem](https://github.com/kmsunmin/pulkkot-font/blob/main/images/poem.png)
+<p align="center">
+  <img src="https://github.com/kmsunmin/pulkkot-font/blob/main/images/poem.png" />
+</p>
 
 ## How to install
 #### Windows:
