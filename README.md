@@ -57,7 +57,5 @@ pulkkot(풀꽃) means 'grass flower' in Korean and I named it after one of my fa
 
 ![example](https://github.com/kmsunmin/pulkkot-font/blob/main/images/example.png)
 
-## Licensing
-Copyright (c) 2021, Sunmin Kim
-
+## License
 This font software is licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL). This means that the font can be "used, studied, modified and redistributed freely as long as they are not sold by themselves". More information is available at http://scripts.sil.org/OFL.
