@@ -1,7 +1,7 @@
 # grass flower font
 **grass flower** is a custom font that I created by using [Calligraphr](https://www.calligraphr.com/). Calligraphr is a website that allows users to create their own custom fonts at a free cost. I learned about this website thanks to my coworkers. I also used [Font Squirrel](https://www.fontsquirrel.com/) that generates webfont for free. For more detailed tutorial for custom fonts, please check out [this article](https://blog.schoolofcode.co.uk/a-beginners-guide-to-creating-your-very-own-custom-web-font-7b71b16f4ef3). Hope you enjoy this and perhaps have fun making your own as well :balloon:
 
-## What the font is named as 'grass flower'
+## Why the font is named as 'grass flower'
 I named it after one of my favourite Korean poems, 풀꽃(pulkkot) meaning 'grass flower'.
 
 <p align="center">
