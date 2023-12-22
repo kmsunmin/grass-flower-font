@@ -8,7 +8,7 @@ I named it after one of my favourite Korean poems, 풀꽃(pulkkot) meaning 'gras
   <img src="https://github.com/kmsunmin/grass-flower-font/blob/main/images/poem.png" />
 </p>
 
-## How to install (.otf/.ttf files)
+## How to install (.otf file)
 #### Windows:
 1. After downloading the font file on your computer, right-click the file and select **Install**.
 2. When the font installation is complete, you can use the font.
